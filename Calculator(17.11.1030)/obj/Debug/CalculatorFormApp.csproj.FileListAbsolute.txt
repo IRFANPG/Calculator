@@ -1,0 +1,10 @@
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\bin\Debug\CalculatorFormApp.exe.config
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\bin\Debug\CalculatorFormApp.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\bin\Debug\CalculatorFormApp.pdb
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.csprojAssemblyReference.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.Form1.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.Properties.Resources.resources
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.csproj.GenerateResource.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.csproj.CoreCompileInputs.cache
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.exe
+E:\AMIKOM\SMT 3\Pemrograman Lanjut\CalculatorFormApp\CalculatorFormApp\obj\Debug\CalculatorFormApp.pdb
